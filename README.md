@@ -1,7 +1,7 @@
-"# myFirstApp" 
+# myFirstApp
 
-# Para abrir para fazer teste em diferentes dispositivos
+## Para abrir para fazer teste em diferentes dispositivos
     ionic serve --lab
 
-# Para criar nova pagina
+## Para criar nova pagina
     ionic g page nomeDaPagina
